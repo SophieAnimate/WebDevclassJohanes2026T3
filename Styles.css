@@ -1,9 +1,14 @@
 h1 {
-    color:rgb(247, 244, 244) ;
+    color:rgb(247, 244, 244);
     background-color: aquamarine;
     text-align: center;
+    font-family: "Copperplate";
 }
 h2 {
     color:rgb(53, 142, 62);
+    font-family: "Copperplate";
 }
-body {background-color: black;}
+body {
+    background-color: black;
+    font-family: "Copperplate";
+}
