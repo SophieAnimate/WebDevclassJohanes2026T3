@@ -12,3 +12,6 @@ body {
     background-color: black;
     font-family: "Copperplate";
 }
+.small {
+    width: 200px
+}
